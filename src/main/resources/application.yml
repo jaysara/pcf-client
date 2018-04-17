@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: test-app
+  cloud:
+    cloudfoundry:
+      username: xxxx@xxxx.com
+      password: xxxx
+      org: xx-xx-xxx
+      space: DEV
